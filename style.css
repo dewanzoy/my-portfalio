@@ -1,7 +1,47 @@
 *{
     padding: 0;
     margin: 0;
+    
 }
-.r{
+.logo h2{
+    font-weight: 800;
+    
+}
+.logo-word{
     color: red;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+.menus{
+    display: flex;
+    justify-content: space-between;
+}
+.menus ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menus ul li{
+    margin: 0px 10px 0px 10px;
+    list-style: none;
+    padding-left: 40px;
+    
+}
+.menus ul li a{
+    text-decoration: none;
+    
+}
+.btn{
+    color: white;
+    border: none;
+    padding: 10px 15px 10px 15px ;
+    align-items: center;
+    margin-leftg: 10px;
+    background: #ff6c03;
+    font-size: 18px;
 }
