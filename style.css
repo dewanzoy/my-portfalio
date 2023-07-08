@@ -85,3 +85,27 @@ header{
     margin: 10px 0px;
     border-radius: 5px;
 }
+
+
+.about-container{
+    
+    background: #dba279;
+    max-width: 1140px;
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px;
+    
+}
+.about h1{
+    justify-content: center;
+    text-align: center;
+}
+.about-content{
+    display: flex;
+    justify-content: space-between;
+
+}
+.abouts{
+    
+}
