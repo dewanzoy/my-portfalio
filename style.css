@@ -6,6 +6,7 @@
 
 .logo h2{
     font-weight: 800;
+    font-size: 40px;
     
 }
 .logo-word{
@@ -94,7 +95,7 @@ header{
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
-    margin: 130px;
+    margin: 0 130px;
     
 }
 .about h1{
@@ -126,4 +127,11 @@ header{
 .what-main-con h1{
     text-align: center;
     margin: auto;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-colam{
+    border-bottom: 1px solid black;
 }
